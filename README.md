@@ -8,7 +8,7 @@ The `README.md` is intentional to assist you the explorer on their way to explor
 
 ### 💻 Project Files
 
-```
+```txt
 FASTN/
 -- ds.ftd - contains some configuration like the typography for the pages, add a button component
 -- data.ftd - contains the data that populates the website
@@ -21,7 +21,7 @@ FASTN.ftd - package management file
 
 ### ⚙️ Other Files
 
-```
+```txt
 .github/
 -- workflows/
 ---- deploy.yml - github pages deployment action
@@ -46,26 +46,26 @@ It also uses GitHub Actions and GitHub Pages for deployment.
 
 ## 🫣 Demo
 
-[![Fullpage Screenshot of Website](https://github.com/xkrishguptaa/workshop-fastn/assets/135469703/c26b69c8-f2f2-4251-bcd5-1c4f8404ed3c)](https://xkrishguptaa.github.io/workshop-fastn)
+[![Full page Screenshot of Website](https://github.com/kkrishguptaa/workshop-fastn/assets/135469703/c26b69c8-f2f2-4251-bcd5-1c4f8404ed3c)](https://kkrishguptaa.github.io/workshop-fastn)
 
-View live demo - [xkrishguptaa.github.io/workshop-fastn](https://xkrishguptaa.github.io/workshop-fastn/)
+View live demo - [kkrishguptaa.github.io/workshop-fastn](https://kkrishguptaa.github.io/workshop-fastn/)
 
 ## 🛠️ Workshop
 
-- Go to [xkrishguptaa/workshop-fastn](https://github.com/xkrishguptaa/workshop-fastn)
+- Go to [kkrishguptaa/workshop-fastn](https://github.com/kkrishguptaa/workshop-fastn)
 
-  ![Screenshot of GitHub Repo xkrishguptaa/workshop-fastn](https://github.com/xkrishguptaa/workshop-fastn/assets/135469703/c26b69c8-f2f2-4251-bcd5-1c4f8404ed3c)
+  ![Screenshot of GitHub Repo kkrishguptaa/workshop-fastn](https://github.com/kkrishguptaa/workshop-fastn/assets/135469703/c26b69c8-f2f2-4251-bcd5-1c4f8404ed3c)
 
 - Use this template and then create a new repo!
 
-  ![screenshot of you doing that](https://github.com/xkrishguptaa/workshop-fastn/assets/135469703/0d2a50e6-a6ac-42ad-9081-af847f5cbd7f)
+  ![screenshot of you doing that](https://github.com/kkrishguptaa/workshop-fastn/assets/135469703/0d2a50e6-a6ac-42ad-9081-af847f5cbd7f)
 
 - Select the owner to be yourself and the repo name as `workshop-fastn`
 
-  ![screenshot of you doing that](https://github.com/xkrishguptaa/workshop-fastn/assets/135469703/041bbf05-8faf-4a5a-8a37-ca81ddfe8040)
+  ![screenshot of you doing that](https://github.com/kkrishguptaa/workshop-fastn/assets/135469703/041bbf05-8faf-4a5a-8a37-ca81ddfe8040)
 
 - Now, Click on `Code` and then the `Codespace` Tab, after that click on the `+` icon to create a new codespace
-  ![screenshot of you doing that](https://github.com/xkrishguptaa/workshop-fastn/assets/135469703/d7fcac4e-d310-47b0-b67d-ff757336f415)
+  ![screenshot of you doing that](https://github.com/kkrishguptaa/workshop-fastn/assets/135469703/d7fcac4e-d310-47b0-b67d-ff757336f415)
 
 - Now you have VSCode on the web to work on this repo 🎉
 
@@ -104,11 +104,11 @@ View live demo - [xkrishguptaa.github.io/workshop-fastn](https://xkrishguptaa.gi
 
 - Now go back to your GitHub Repository, on the settings tab, then the `pages` button on the menu
 
-  ![](https://github.com/xkrishguptaa/workshop-fastn/assets/135469703/8a123c6a-a71c-4d97-83cc-6825a39dc3b1)
+  ![pages menu option in github settings app](https://github.com/kkrishguptaa/workshop-fastn/assets/135469703/8a123c6a-a71c-4d97-83cc-6825a39dc3b1)
 
 - Now open the select option for the branch and select `gh-pages`
 
-  ![](https://github.com/xkrishguptaa/workshop-fastn/assets/135469703/ac88830a-1986-4dd9-ad20-0953b1e4ac56)
+  ![select menu for gh-pages branch open](https://github.com/kkrishguptaa/workshop-fastn/assets/135469703/ac88830a-1986-4dd9-ad20-0953b1e4ac56)
 
 - Save and you are done! Your website will soon be live at `YOUR_USERNAME.github.io/workshop-fastn`
 
@@ -118,6 +118,6 @@ View live demo - [xkrishguptaa.github.io/workshop-fastn](https://xkrishguptaa.gi
 - Join the [fastn discord](https://dub.sh/krish-fastn-discord)
 - Read the [`fastn` for geeks article](https://dub.sh/krish-fastn-geeks)
 
-## 🎉 Hope you enjoyed!
+## 🎉 Hope you enjoyed
 
-That's it for this workshop! Feel free to contact [me](https://biodrop.io/xkrishguptaa) for any doubts or to show of what you made! 😃
+That's it for this workshop! Feel free to contact me for any doubts or to show of what you made! 😃

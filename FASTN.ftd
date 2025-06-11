@@ -4,7 +4,7 @@
 
 -- fastn.dependency: fastn-community.github.io/doc-site as doc-site
 -- fastn.dependency: fastn-community.github.io/inter-typography as types
--- fastn.dependency: xkrishguptaa.github.io/theme-fastn as cs
+-- fastn.dependency: kkrishguptaa.github.io/theme-fastn as cs
 
 -- fastn.auto-import: workshop-fastn/FASTN/ds
 -- fastn.auto-import: workshop-fastn/assets

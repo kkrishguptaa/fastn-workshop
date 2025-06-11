@@ -1,7 +1,7 @@
 -- import: workshop-fastn/FASTN/types
 
 -- string creator-name: Krish
--- string creator-avatar: https://github.com/xkrishguptaa.png
+-- string creator-avatar: https://github.com/kkrishguptaa.png
 
 -- string headline: 🚀 Dev & 🌐 OSS Contributor
 -- string headline-body: 👇🏻 Check out the following links to know more about me!
@@ -9,13 +9,13 @@
 -- types.social list socials:
 
 -- types.social: Twitter
-profile-link: https://twitter.com/xkrishguptaa
+profile-link: https://twitter.com/kkrishguptaa
 
 -- types.social: LinkedIn
-profile-link: https://www.linkedin.com/in/xkrishguptaa
+profile-link: https://www.linkedin.com/in/kkrishguptaa
 
 -- types.social: Instagram
-profile-link: https://www.instagram.com/xkrishguptaa
+profile-link: https://www.instagram.com/kkrishguptaa
 
 -- end: socials
 
