@@ -16,6 +16,6 @@ jobs:
           fastn build --base=${{ github.event.repository.name }}
       - name: copy CNAME if found
         run: '(test -f CNAME && cp CNAME .build) || echo "CNAME does not exist, skipping step"'
-      - uses: actions/upload-pages-artifact@v3
+      - uses: actions/upload-pages-artifact@56afc609e74202658d3ffba0e8f6dda462b719fa # v3
         with:
           path: ./.build
