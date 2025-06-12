@@ -7,7 +7,7 @@ export: h0,h1,h2,h3
 -- import: types
 -- import: cs
 
--- import: workshop-fastn/FASTN/data
+-- import: fastn-workshop/FASTN/data
 
 ;; ********** Layout **********
 

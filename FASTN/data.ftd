@@ -1,4 +1,4 @@
--- import: workshop-fastn/FASTN/types
+-- import: fastn-workshop/FASTN/types
 
 -- string creator-name: Krish
 -- string creator-avatar: https://github.com/kkrishguptaa.png
