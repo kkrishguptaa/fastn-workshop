@@ -1,13 +1,11 @@
 -- import: fastn
 
--- fastn.package: workshop-fastn
+-- fastn.package: fastn-workshop
 
--- fastn.dependency: fastn-community.github.io/doc-site as doc-site
--- fastn.dependency: fastn-community.github.io/inter-typography as types
--- fastn.dependency: kkrishguptaa.github.io/theme-fastn as cs
+-- fastn.dependency: doc-site.fifthtry.site as doc-site
+-- fastn.dependency: inter-typography.fifthtry.site as types
+-- fastn.dependency: kkrishguptaa.github.io/fastn-theme as cs
 
--- fastn.auto-import: workshop-fastn/FASTN/ds
--- fastn.auto-import: workshop-fastn/assets
 -- fastn.auto-import: doc-site
 
 -- fastn.sitemap:

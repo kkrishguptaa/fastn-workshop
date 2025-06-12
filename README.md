@@ -46,32 +46,32 @@ It also uses GitHub Actions and GitHub Pages for deployment.
 
 ## 🫣 Demo
 
-[![Full page Screenshot of Website](https://github.com/kkrishguptaa/workshop-fastn/assets/135469703/c26b69c8-f2f2-4251-bcd5-1c4f8404ed3c)](https://kkrishguptaa.github.io/workshop-fastn)
+[![Full page Screenshot of Website](https://github.com/kkrishguptaa/fastn-workshop/assets/135469703/c26b69c8-f2f2-4251-bcd5-1c4f8404ed3c)](https://kkrishguptaa.github.io/fastn-workshop)
 
-View live demo - [kkrishguptaa.github.io/workshop-fastn](https://kkrishguptaa.github.io/workshop-fastn/)
+View live demo - [kkrishguptaa.github.io/fastn-workshop](https://kkrishguptaa.github.io/fastn-workshop/)
 
 ## 🛠️ Workshop
 
-- Go to [kkrishguptaa/workshop-fastn](https://github.com/kkrishguptaa/workshop-fastn)
+- Go to [kkrishguptaa/fastn-workshop](https://github.com/kkrishguptaa/fastn-workshop)
 
-  ![Screenshot of GitHub Repo kkrishguptaa/workshop-fastn](https://github.com/kkrishguptaa/workshop-fastn/assets/135469703/c26b69c8-f2f2-4251-bcd5-1c4f8404ed3c)
+  ![Screenshot of GitHub Repo kkrishguptaa/fastn-workshop](https://github.com/kkrishguptaa/fastn-workshop/assets/135469703/c26b69c8-f2f2-4251-bcd5-1c4f8404ed3c)
 
 - Use this template and then create a new repo!
 
-  ![screenshot of you doing that](https://github.com/kkrishguptaa/workshop-fastn/assets/135469703/0d2a50e6-a6ac-42ad-9081-af847f5cbd7f)
+  ![screenshot of you doing that](https://github.com/kkrishguptaa/fastn-workshop/assets/135469703/0d2a50e6-a6ac-42ad-9081-af847f5cbd7f)
 
-- Select the owner to be yourself and the repo name as `workshop-fastn`
+- Select the owner to be yourself and the repo name as `fastn-workshop`
 
-  ![screenshot of you doing that](https://github.com/kkrishguptaa/workshop-fastn/assets/135469703/041bbf05-8faf-4a5a-8a37-ca81ddfe8040)
+  ![screenshot of you doing that](https://github.com/kkrishguptaa/fastn-workshop/assets/135469703/041bbf05-8faf-4a5a-8a37-ca81ddfe8040)
 
 - Now, Click on `Code` and then the `Codespace` Tab, after that click on the `+` icon to create a new codespace
-  ![screenshot of you doing that](https://github.com/kkrishguptaa/workshop-fastn/assets/135469703/d7fcac4e-d310-47b0-b67d-ff757336f415)
+  ![screenshot of you doing that](https://github.com/kkrishguptaa/fastn-workshop/assets/135469703/d7fcac4e-d310-47b0-b67d-ff757336f415)
 
 - Now you have VSCode on the web to work on this repo 🎉
 
 - Go to `FASTN.ftd` file
 
-  This file is the package manager, if you gave the repo name anything other than `workshop-fastn` please update all the times `workshop-fastn` is written to your repository's name for it to work!
+  This file is the package manager, if you gave the repo name anything other than `fastn-workshop` please update all the times `fastn-workshop` is written to your repository's name for it to work!
 
 - Open the terminal (`CTRL` + `\``) and run:
 
@@ -104,13 +104,13 @@ View live demo - [kkrishguptaa.github.io/workshop-fastn](https://kkrishguptaa.gi
 
 - Now go back to your GitHub Repository, on the settings tab, then the `pages` button on the menu
 
-  ![pages menu option in github settings app](https://github.com/kkrishguptaa/workshop-fastn/assets/135469703/8a123c6a-a71c-4d97-83cc-6825a39dc3b1)
+  ![pages menu option in github settings app](https://github.com/kkrishguptaa/fastn-workshop/assets/135469703/8a123c6a-a71c-4d97-83cc-6825a39dc3b1)
 
 - Now open the select option for the branch and select `gh-pages`
 
-  ![select menu for gh-pages branch open](https://github.com/kkrishguptaa/workshop-fastn/assets/135469703/ac88830a-1986-4dd9-ad20-0953b1e4ac56)
+  ![select menu for gh-pages branch open](https://github.com/kkrishguptaa/fastn-workshop/assets/135469703/ac88830a-1986-4dd9-ad20-0953b1e4ac56)
 
-- Save and you are done! Your website will soon be live at `YOUR_USERNAME.github.io/workshop-fastn`
+- Save and you are done! Your website will soon be live at `YOUR_USERNAME.github.io/fastn-workshop`
 
 ## 🔥 Beyond the workshop
 
